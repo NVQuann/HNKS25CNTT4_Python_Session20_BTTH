@@ -1,0 +1,6 @@
+2026-06-10 20:45:39,851 - INFO - User viewed ticket list.
+2026-06-10 20:45:49,305 - INFO - Booked new ticket 3 for quan
+2026-06-10 20:45:55,762 - INFO - Seat changed for ticket 3 to 2345-1234
+2026-06-10 20:45:59,164 - WARNING - Ticket 3 has been cancelled.
+2026-06-10 20:46:00,974 - INFO - Revenue report generated. Total: 1000.0
+2026-06-10 20:46:02,175 - INFO - Ticket management system closed.
