@@ -221,8 +221,8 @@ def calculate_revenue(tickets):
 
         logging.error(f"Missing key while calculating revenue: {error}")
 
-if __name__ == "__main__":
 
+def main():
     while True:
         choice = input("""
 === HỆ THỐNG QUẢN LÝ VÉ RIKKEI ESPORTS ===
@@ -253,3 +253,8 @@ Chọn chức năng (1-6):
             case _:
                 print("Lựa chọn không hợp lệ.")
                 logging.warning("Invalid menu choice selected")
+
+
+
+if __name__ == "__main__":
+    main()
